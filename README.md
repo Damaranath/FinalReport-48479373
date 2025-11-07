@@ -28,4 +28,8 @@ Quantitative metrics (BLEU, ROUGE-L, TF-IDF) confirmed that stronger privacy sli
 Reflection
 
 This project highlighted both the technical challenges of reproducing older open-source code with updated dependencies and the conceptual balance between privacy and linguistic fidelity.
-It demonstrates that differentially private language models can preserve readability and meaning even under strong privacy settings, reinforcing their potential for secure NLP applications..
+It demonstrates that differentially private language models can preserve readability and meaning even under strong privacy settings, reinforcing their potential for secure NLP applications.
+
+# NOTE: I didn't actual dataset files since they are too big and exceeding the 25mb storage limit but repository contains all output saved file ADSCode.ipynb file contains Main code.
+
+
